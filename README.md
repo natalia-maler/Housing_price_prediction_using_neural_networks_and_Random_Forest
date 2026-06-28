@@ -79,6 +79,9 @@ Results:
 - MAE: 0.3175
 - R^2: 0.7859
 
+![PlotImprovedNeuralNetwork](images/plotImprovedNN.jpg)
+*Fig. 2. Plot showing MAE vs. Val_MAE obtained using the improved neural network.*
+
 The improved model significantly reduced error and improved generalization ability.
 
 ### Model 3 - Random Forest with Hyperparameter tuning
@@ -91,6 +94,9 @@ Results:
 - MSE: 0.2129
 - MAE: 0.3147
 - R^2: 0.7910
+
+![PlotRandomForest](images/plotRF.jpg)
+*Fig. 3. Scatter plot showing the relationship between actual and predicted housing prices using the Random Forest model.*
 
 The Random Forest model achieves the best performance overall, slightly outperforming neural networks in all metrics.
 
