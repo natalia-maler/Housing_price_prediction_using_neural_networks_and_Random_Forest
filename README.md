@@ -50,6 +50,9 @@ Results:
 - MAE: 0.3516
 - R^2: 0.7507
 
+![PlotSimpleNeuralNetwork](images/plotSimpleNN.jpg)
+*Fig. 1. Plot showing MAE vs. Val_MAE obtained using the baseline neural network.*
+
 The baseline neural network achieved reasonable performance, explaining around 75% of variance in housing prices.
 
 ### Model 2 - Improved Neural Network
