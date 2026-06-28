@@ -1,4 +1,4 @@
-### Housing_price_prediction_using_neural_networks_and_Random_Forest
+### Housing price prediction using neural_networks and Random Forest
 
 The goal of this project was to build regression models predicting median house prices based on demographic and geographic features from the California Housing dataset.
 
